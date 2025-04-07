@@ -2,6 +2,7 @@
 
 Aplicação simples de gerenciamento de tarefas individuais, desenvolvida com Angular.
 Este projeto foi construído como parte do curso *Angular - The Complete Guide (2025 Edition)*, ministrado pelo instrutor Maximilian Schwarzmüller.
+Assista o projeto funcionando no Youtube: [Em breve]
 
 Observação: As tarefas criadas ou excluídas são armazenadas localmente, sem persistência em banco de dados real.
 
